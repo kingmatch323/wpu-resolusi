@@ -3,4 +3,4 @@ wpu resolusi
 - Membuat platform video
 - Membuat forum diskusi
 - Edit tambahan baru nih
-- Ok
+- edit & tambah baru lagi
